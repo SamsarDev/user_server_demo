@@ -1,8 +1,10 @@
 {
-"userName": "admin",
-"name": "Administrador del Sistema",
-"expired": "2022-04-05T10:53:53.5740278-06:00",
-"profiles": {
-"code": 1
-}
+  "user": {
+    "userName": "admin",
+    "name": "Administrador del Sistema",
+    "expired": "2022-04-05T10:53:53.5740278-06:00",
+    "profiles": {
+    "code": 1
+    }
+  }
 }
